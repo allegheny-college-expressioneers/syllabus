@@ -28,4 +28,4 @@ By the end of this course, you will be able to:
 - Express basic fluency in the Python programming language
 - Understand the principles of object-oriented programming
 - Independently utilize industry-standard tools, such as Git, GitHub, Jupyter notebooks, and Markdown
-- Create documentation for a program to communicate the program's intended behavior, as well as its potential issues, with its users and maintainers
+- Create documentation to effectively communicate a program's intended behavior, as well as its potential issues, with its users and maintainers
