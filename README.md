@@ -2,10 +2,10 @@
 
 ## Course Details
 
-**Course Number:** CMPSC 100.02\ <!-- UPDATEME -->
-**Meeting Times:** M, W, F 10:20 - 11:10 AM (Class)\ <!-- UPDATEME -->
-W 3:00 - 4:50 PM (Lab)\ <!-- UPDATEME -->
-**Meeting Location:** Main Campus, Alden Hall 109\ <!-- UPDATEME -->
+**Course Number:** CMPSC 100.02<!-- UPDATEME -->\
+**Meeting Times:** M, W, F 10:20 - 11:10 AM (Class)<!-- UPDATEME -->\
+W 3:00 - 4:50 PM (Lab)<!-- UPDATEME -->\
+**Meeting Location:** Main Campus, Alden Hall 109<!-- UPDATEME -->\
 **Distribution Requirements:** ME, SP
 
 **Instructor:** Maria Kim Heinert\
