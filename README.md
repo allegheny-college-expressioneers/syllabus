@@ -9,7 +9,7 @@ W 3:00 - 4:50 PM (Lab)<!-- UPDATEME -->\
 **Distribution Requirements:** ME, SP
 
 **Instructor:** Maria Kim Heinert\
-Please visit my [website](https://mariakimheinert.com) to see my office hours and office location.
+Please visit my [website](https://mariakimheinert.com) for my email, office hours, and office location.
 
 **Discord:** [Allegheny College Computer Science](https://discord.gg/tqR2Yh4gNa)\
 Click the link above to join our Discord server. Once you are a member, I will add you to our private course channel, **#expressioneers**.
