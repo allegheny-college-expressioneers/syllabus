@@ -15,3 +15,16 @@ Please visit my [website](https://mariakimheinert.com) for my email, office hour
 Click the link above to join the Discord server. Once you are a member, I will add you to our private course channel, **#expressioneers**.\
 Most of our communication, including announcements from me that affect our course, will take place on Discord.
 
+## Learning Outcomes
+
+### Course Description
+
+> An introduction to the principles of computer science with an emphasis on creative expression through the medium of a programming language. Participating in hands-on activities that often require teamwork, students learn the computational structures needed to solve problems and produce artifacts such as interactive games and computer-mediated art and music. Students also learn how to organize and document a program’s source code so that it effectively communicates with the intended users and maintainers. Additionally, the introduction includes an overview of the discipline of computer science and computational thinking. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions.
+
+By the end of this course, you will be able to:
+- Bring moderately complex ideas to life through a digital medium
+- Interact with a computer through a terminal window
+- Express basic fluency in the Python programming language
+- Understand the principles of object-oriented programming
+- Independently utilize industry-standard tools, such as Git, GitHub, Jupyter notebooks, and Markdown
+- Create documentation for a program to communicate the program's intended behavior, as well as its potential issues, with its users and maintainers
