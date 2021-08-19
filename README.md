@@ -1,5 +1,7 @@
 # Welcome to CMPSC 100: Computational Expression at Allegheny College, Fall 2021 <!-- UPDATEME-->
 
+Up to this point, you might have used your computer to write Google Docs, watch YouTube videos, or listen to your favorite music on Spotify. Believe it or not, you can use the very same computer to create the next Minecraft, design a new social media platform, or even develop software to help cure diseases! You have everything you need to change the world right at your fingertips. Ready to learn how? This course will teach you how to bring your digital dreams to life using computational thinking.
+
 ## Course Details
 
 **Course Number:** CMPSC 100.02<!-- UPDATEME -->\
