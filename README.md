@@ -18,6 +18,16 @@ Please visit my [website](https://mariakimheinert.com) for my email, office hour
 Click the link above to join the Discord server. Once you are a member, I will add you to our private course channel, **#expressioneers**.\
 Most of our communication, including announcements from me that affect our course, will take place on Discord.
 
+## Instructional Materials
+
+### Textbook
+
+Although there is no official textbook for this couese, most of the readings provided to you will come from a freely available textbook called [Think Python (Second Edition)](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey.
+
+### Platforms
+
+You will need to create [GitHub](https://github.com/) and [Discord](https://discord.gg/tqR2Yh4gNa) accounts.
+
 ## Learning Outcomes
 
 ### Official Course Description
