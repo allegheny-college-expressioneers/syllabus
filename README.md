@@ -131,21 +131,21 @@ Fractional grades will be rounded to the nearest whole percentage, according to 
 
 ## Schedule <!-- UPDATEME -->
 
-| Week | Dates                    | Topics                                                                                                                                               |   |
-|------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| 0    | August 25 - 27           | **Groundwork** <br> Git, GitHub, SSH keys, JupyterHub, Unix navigation, and Markdown                                                                 |   |
-| 1    | August 30 - September 3  | **Hello, Variables!** <br> Variable assignment and datatypes, arithmetic and assignment operators, expressions, and debugging                        |   |
-| 2    | September 6 - 10         | **Fun Functions** <br> Introduction to functions                                                                                                     |   |
-| 3    | September 13 - 17        | **While, While West** <br>  Introduction to control statements (`if` and `while`)                                                                    |   |
-| 4    | September 20 - 24        | **Love It or List It** <br> Introduction to data structures (`list` and `tuple`) and how to iterate through them (`for` loops)                       |   |
-| 5    | September 27 - October 1 | **Silly Strings** <br> Strings as a data structure, format strings, and reading and writing files                                                    |   |
-| 6    | October 4 - 8            | **Merriam-Webster** <br> Dictionaries                                                                                                                |   |
-| 7    | October 11 - 15          | **Mighty Modules** <br> Importing and using modules                                                                                                  |   |
-| 8    | October 18 - 22          | **Rags To Riches** <br> How to use the Rich Python library                                                                                           |   |
-| 9    | October 25 - 29          | **Object-Oriented Programming** <br> Introduction to object-oriented programming, including constructors, properties, and interactions between files |   |
-| 10   | November 1 - 5           | **Object-Oriented Programming** <br> Adding custom methods                                                                                           |   |
-| 11   | November 8 - 12          | Final Project                                                                                                                                        |   |
-| 12   | November 15 - 19         | Final Project                                                                                                                                        |   |
-| 13   | November 22 - 26         | Turkey Time                                                                                                                                          |   |
-| 14   | November 29 - December 3 | Final Project                                                                                                                                        |   |
-| 15   | December 6 - 8           | Final Project                                                                                                                                        |   |
+| Week | Dates                    | Topics                                                                                                                                               |
+|------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0    | August 25 - 27           | **Groundwork** <br> Git, GitHub, SSH keys, JupyterHub, Unix navigation, and Markdown                                                                 |
+| 1    | August 30 - September 3  | **Hello, Variables!** <br> Variable assignment and datatypes, arithmetic and assignment operators, expressions, and debugging                        |
+| 2    | September 6 - 10         | **Fun Functions** <br> Introduction to functions                                                                                                     |
+| 3    | September 13 - 17        | **While, While West** <br>  Introduction to control statements (`if` and `while`)                                                                    |
+| 4    | September 20 - 24        | **Love It or List It** <br> Introduction to data structures (`list` and `tuple`) and how to iterate through them (`for` loops)                       |
+| 5    | September 27 - October 1 | **Silly Strings** <br> Strings as a data structure, format strings, and reading and writing files                                                    |
+| 6    | October 4 - 8            | **Merriam-Webster** <br> Dictionaries                                                                                                                |
+| 7    | October 11 - 15          | **Mighty Modules** <br> Importing and using modules                                                                                                  |
+| 8    | October 18 - 22          | **Rags To Riches** <br> How to use the Rich Python library                                                                                           |
+| 9    | October 25 - 29          | **Object-Oriented Programming** <br> Introduction to object-oriented programming, including constructors, properties, and interactions between files |
+| 10   | November 1 - 5           | **Object-Oriented Programming** <br> Adding custom methods                                                                                           |
+| 11   | November 8 - 12          | Final Project                                                                                                                                        |
+| 12   | November 15 - 19         | Final Project                                                                                                                                        |
+| 13   | November 22 - 26         | Turkey Time                                                                                                                                          |
+| 14   | November 29 - December 3 | Final Project                                                                                                                                        |
+| 15   | December 6 - 8           | Final Project                                                                                                                                        |
