@@ -47,14 +47,14 @@ By the end of this course, you will be able to:
 
 ### Breakdown
 
-| Category               | Percentage | Points   |
-|------------------------|------------|----------|
-| Attendance             | 10%        | 100      |
-| Exercises              | 20%        | 200      |
-| Laboratory Assignments | 40%        | 400      |
-| Quizzes                | 10%        | 100      |
-| Final Project          | 20%        | 200      |
-| **Total**              | **100%**   | **1000** |
+| Category               | Percentage |
+|------------------------|------------|
+| Attendance             | 10%        |
+| Exercises              | 20%        |
+| Laboratory Assignments | 40%        |
+| Quizzes                | 10%        |
+| Final Project          | 20%        |
+| **Total**              | **100%**   |
 
 #### Attendance
 
