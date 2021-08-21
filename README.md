@@ -8,7 +8,8 @@ Up to this point, you may have used your computer to write Google Docs, watch Yo
 **Meeting Times:** M, W, F 10:20 - 11:10 AM (Class)<!-- UPDATEME -->\
 W 3:00 - 4:50 PM (Lab)<!-- UPDATEME -->\
 **Meeting Location:** Main Campus, Alden Hall 109<!-- UPDATEME -->\
-**Distribution Requirements:** ME, SP
+**Distribution Requirements:** ME, SP\
+**Final Exam Time (Presentations):** Tuesday, December 14, 9:00 AM
 
 ## Course Communication
 
