@@ -1,6 +1,6 @@
 # Welcome to CMPSC 100: Computational Expression at Allegheny College, Fall 2021 <!-- UPDATEME-->
 
-Up to this point, you might have used your computer to write Google Docs, watch YouTube videos, or listen to your favorite music on Spotify. Believe it or not, you can use the very same computer to create the next Minecraft, design a new social media platform, or even develop software to help cure diseases! You have everything you need to change the world right at your fingertips. Ready to learn how? This course will teach you how to bring your digital dreams to life using computational thinking.
+Up to this point, you may have used your computer to write Google Docs, watch YouTube videos, or listen to your favorite music on Spotify. Believe it or not, you can use the very same computer to create the next Minecraft, design a new social media platform, or even develop software to help cure diseases! You have everything you need to change the world right at your fingertips. Ready to learn how? This course will teach you how to express your ideas through a digital medium using computational thinking.
 
 ## Course Details
 
@@ -22,7 +22,7 @@ Most of our communication, including announcements from me that affect our cours
 
 ### Textbook
 
-Although there is no official textbook for this couese, most of the readings provided to you will come from a freely available textbook called [Think Python (Second Edition)](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey.
+Although there is no official textbook for this course, most of the readings provided to you will come from a freely available textbook called [Think Python (Second Edition)](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey.
 
 ### Platforms
 
@@ -58,33 +58,33 @@ By the end of this course, you will be able to:
 
 #### Attendance
 
-This course will move fast! We have a lot of exciting material to cover. It will be much easier for you to make sure you are keeping pace if you are present for every class and laboratory session. Not only does it give you the opportunity to check your understanding, ask questions, and get feedback on your assignments, but it is invaluable time to get to know your peers, who may someday become part of your professional network or even lifelong friends!
+This course will move fast! We have a lot of exciting material to cover. It will be much easier for you to keep pace if you attend every class and laboratory session. Not only does being present give you the opportunity to check your understanding, ask questions, and get feedback on your assignments, but it gives you valuable time to get to know your peers, who may someday become part of your professional network or even lifelong friends!
 
-During the Fall 2021 <!-- UPDATEME --> semester, between classes and lab sessions, we will meet a total of 58 times. I will note your attendance each time and at the end of the semester your attendance will be converted from a fraction (**# of classes and lab sessions attended / 58**) to a percentage (all percentages will be rounded up to the nearest whole percentage). You will then earn this number of points towards your attendance grade.
+During the Fall 2021 <!-- UPDATEME --> semester, between classes and lab sessions, we will meet a total of 58 times. I will note your attendance each time and at the end of the semester your attendance will be converted from a fraction (**# of classes and lab sessions attended / 58**) to a percentage (all percentages will be rounded up to the nearest whole percentage). This attendance grade will make up 10% of your overall grade.
 
 If you ever find yourself sick or in need of a mental health day, please stay home and rest. **You can still receive your attendance for the class or lab session you missed as long as you communicate with me your reason for missing the class or lab session by the end of that day**. If there are extenuating circumstances that make you unable to communicate with me through Discord or email by the end of the day of your absence, make sure to follow up with me at your earliest ability. If you do not communicate the reason for your absence before or during the next time I see you, I will assume that your absence was avoidable and you will not receive attendance for that class or lab session.
 
 #### Reading Comprehension Exercises
 
-Every Friday, you will receive a set of readings on the topics that we will be covering in the following week as well as a suggested reading schedule. The readings will contain exercises that will help you check your comprehension as you progress through them. These exercises might ask you to run a command in a terminal window and record its output, answer a question, or write some code. I expect you to make an honest attempt at every exercise, *especially* when they are challenging. It is perfectly acceptable to get things wrong, as long as you have earnestly tried! Exercises will be graded based on efforts at completion, rather than correctness.
+Every Friday, you will receive a set of readings on the topics that we will be covering in the following week as well as a suggested reading schedule. The readings contain exercises that will help you check your comprehension as you progress through them. These exercises might ask you to run a command in a terminal window and record its output, answer a question, or write some code. I expect you to make an honest attempt at every exercise, *especially* when they are challenging. It is perfectly acceptable to get things wrong as long as you have earnestly tried! Exercises will be graded based on efforts at completion, rather than correctness.
 
 Reading comprehension exercises will be due one week after they are released (i.e. the next Friday).
 
 #### Laboratory Assignments
 
-Every Wednesday, you will receive a laboratory assignment. These lab assignments will ask you to engage with code in various ways such as debugging, writing, or documenting. In addition to requiring you to apply the skills and knowledge that you have accumulated in prior weeks, lab assignments are designed to make you put into practice specifically that week's topics as a demonstration of your understanding. Lab assignments will be graded based on completion, correctness, and quality. What exactly is meant by completion, correctness, and quality will vary from lab assignment to lab assignment, but will always be clearly described in the instructions for each lab assignment.
+Every Wednesday, you will receive a laboratory assignment. These lab assignments will ask you to engage with code in various ways such as debugging, writing, or documenting. In addition to requiring you to apply the skills and knowledge that you have accumulated in prior weeks, lab assignments will challenge you to put into practice the current week's topics as a demonstration of your understanding. Lab assignments will be graded based on completion, correctness, and quality. What exactly is meant by completion, correctness, and quality will vary from lab assignment to lab assignment, but will always be clearly described in the instructions for each lab assignment.
 
 The instructions for each lab assignment will also always specify whether you are to complete the lab assignment individually or with other students in a group. For group lab assignments, you are expected to divide the work equally among group members. Group lab assignments will always include a follow-up survey that each member will fill out individually about the contributions of their group members. Each group member may receive a different grade depending on the feedback from this survey.
 
-Lab assignments will be due one week after they are released (i.e. the next Wednesday).
+Lab assignments will be due one week after they are released (i.e. before the next lab session on Wednesday).
 
 #### Quizzes
 
 As you may have noticed, there will be a much greater emphasis on "doing"--on analyzing, writing, and documenting code--than on memorizing and recalling information in this course, just as there is within the field of computer science.
 
-Because of this, quizzes only constitute a small portion of your grade and I will drop your lowest score. Rather than evaluating your ability to memorize and recall information, quizzes are meant more to help you to self-assess your progress and me to determine what topics require more time and attention.
+Because of this, quizzes only constitute a small portion of your grade and I will drop your lowest score. Rather than evaluating your ability to memorize and recall information, quizzes are meant more to help you to self-assess your progress and to help me determine what topics require more time and attention.
 
-Quizzes will be due by 11:59 PM each Thursday. This is to give me enough time to review responses so that I know what to review during the Friday class.
+Quizzes will be due by 11:00 PM Thursday each week, to give me enough time to review responses so that I can determine what topics to focus on during Friday's class.
 
 #### Final Project
 
