@@ -140,3 +140,22 @@ Fractional grades will be rounded to the nearest whole percentage, according to 
 | 14   | November 29 - December 3 | Final Project                                                                                                                                |
 | 15   | December 6 - 8           | Final Project                                                                                                                                |
 
+## Institutional And Departmental Policies
+
+### Statement of Community
+
+Allegheny students and employees are committed to creating an inclusive, respectful and safe residential learning community that will actively confront and challenge racism, sexism, heterosexism, religious bigotry, and other forms of harassment and discrimination. We encourage individual growth by promoting a free exchange of ideas in a setting that values diversity, trust and equality. So that the right of all to participate in a shared learning experience is upheld, Allegheny affirms its commitment to the principles of freedom of speech and inquiry, while at the same time fostering responsibility and accountability in the exercise of these freedoms. This statement does not replace existing personnel policies and codes of conduct.
+
+### Honor Code
+
+
+The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Academic Bulletin. The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College. This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project). All students who have enrolled in the College will work under the Honor Program. Each student who has matriculated at the College has acknowledged the following pledge:
+
+> I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.
+
+It is understood that an important part of the learning process in any course, and particularly one in computer science, derives from thoughtful discussions with teachers and fellow students. Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others and the student who produces assignments that are identical to, or merely variations on, someone else’s work. While it is acceptable for students in this class to discuss their programs, data sets, and reports with their classmates, deliverables that are nearly identical to the work of others will be taken as evidence of violating the Honor Code.
+
+
+### Disability Services
+
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact the Office of Disability Services (ODS) at (814) 332-2898.  ODS is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion.
