@@ -1,4 +1,4 @@
-# Welcome to CMPSC 100: Computational Expression at Allegheny College, Fall 2021 <!-- UPDATEME-->
+# Welcome to CMPSC 100: Computational Expression at Allegheny College, Fall 2021<!-- UPDATEME-->
 
 Up to this point, you may have used your computer to write Google Docs, watch YouTube videos, or listen to your favorite music on Spotify. Believe it or not, you can use the very same computer to create the next Minecraft, design a new social media platform, or even develop software to help cure diseases! You have everything you need to change the world right at your fingertips. Ready to learn how? This course will teach you how to express your ideas through a digital medium using computational thinking.
 
@@ -60,7 +60,7 @@ By the end of this course, you will be able to:
 
 This course will move fast! We have a lot of exciting material to cover. It will be much easier for you to keep pace if you attend every class and laboratory session. Not only does being present give you the opportunity to check your understanding, ask questions, and get feedback on your assignments, but it gives you valuable time to get to know your peers, who may someday become part of your professional network or even lifelong friends!
 
-During the Fall 2021 <!-- UPDATEME --> semester, between classes and lab sessions, we will meet a total of 58 times. I will note your attendance each time and at the end of the semester your attendance will be converted from a fraction (**# of classes and lab sessions attended / 58**) to a percentage (all percentages will be rounded up to the nearest whole percentage). This attendance grade will make up 10% of your overall grade.
+During the Fall 2021<!-- UPDATEME --> semester, between classes and lab sessions, we will meet a total of 58<!-- UPDATEME --> times. I will note your attendance each time and at the end of the semester your attendance will be converted from a fraction (**# of classes and lab sessions attended / 58**<!-- UPDATEME -->) to a percentage (all percentages will be rounded up to the nearest whole percentage). This attendance grade will make up 10% of your overall grade.
 
 If you ever find yourself sick or in need of a mental health day, please stay home and rest. **You can still receive your attendance for the class or lab session you missed as long as you communicate with me your reason for missing the class or lab session by the end of that day**. If there are extenuating circumstances that make you unable to communicate with me through Discord or email by the end of the day of your absence, make sure to follow up with me at your earliest ability. If you do not communicate the reason for your absence before or during the next time I see you, I will assume that your absence was avoidable and you will not receive attendance for that class or lab session.
 
@@ -119,7 +119,7 @@ Extensions for reading comprehension exercises, lab assignments, and select port
 
 Fractional grades will be rounded to the nearest whole percentage, according to normal rounding rules. For example, 89.49 will become 89 and 89.5 will become 90.
 
-## Schedule <!-- UPDATEME -->
+## Schedule<!-- UPDATEME -->
 
 | Week | Dates                    | Topics                                                                                                                                       |
 |------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
