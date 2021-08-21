@@ -92,25 +92,13 @@ The final project, the specifics of which will be announced later in the semeste
 
 You will have approximately one month to work on your final project. During this time, you will write a proposal, create an implementation plan, work on code, provide progress updates, and, at the end of the semester, present and demonstrate your program to your peers. All of this will count towards your final project grade.
 
-#### Due Dates
+### Due Dates and Extensions
 
-Each exercise, laboratory assignment, quiz, and the final project will clearly state its due date in its instructions.
+Unless otherwise announced by me, reading comprehension exercises, laboratory assignments, quizzes, and the final project will be due on the date and at the time stated in their instructions.
 
-##### Late Work Policy
+The due dates for quizzes are final since we will be reviewing answers the day after they are due. You will receive zero points for quizzes that are not submitted by their due date.
 
-For weekly work (i.e. exercises and lab assignments), you will lose 5% from the exercises and/or 5% from the lab assignment for each day the work is late after the due date, up until a week after the due date. If the work is not submitted by 11:59 PM the Sunday after its original due date, you will receive no points for the exercises and/or lab assignment.
-
-For quizzes, you will automatically receive zero points for quizzes that are not received by their due dates.
-
-##### Extensions
-
-You will have three two-day extensions to use for weekly work. When you use an extension, the exercises and lab assignment for that week will be due at 11:59 PM on Tuesday, rather than Sunday. To use an extension, please communicate with me in writing, either through Discord or email, **before the due date** that you would like to use an extension. **If you do not communicate with me that you are using an extension, and continue to submit additional work after the due date, I will consider the work late and grade according to the late work policy outlined above.**
-
-Additionally, you will have two extensions to use for quizzes. When you use an extension, the quiz will be due anytime before the start of Friday's class, which is 10:20 AM <!-- UPDATEME -->, rather than at 11:59 PM on Thursday. If the quiz is not received before Friday's class, the late work policy holds and you will receive zero points for that quiz.
-
-You are free to use your extensions at your own discretion, but please do try to save them for truly rainy days.
-
-If you use all three of your extensions and find yourself in need of an additional extension due to extenuating circumstances, please reach out to me to discuss your situation. It is never my intention for this course to be stress- or anxiety-producing; due dates are in place not to create pressure, but to make sure that we are able to visit all of the topics that we need to cover.
+Extensions for reading comprehension exercises, lab assignments, and select portions of the final project may be granted on a case-by-case basis at my discretion if there are extenuating circumstances that significantly affect your ability to complete the work on time. You must communicate with me before the due date, preferably at least one week in advance, that you would like to request an extension. **If you do not communicate with me about an extension before the due date, I reserve the right to grade only the work submitted by the due date, even if you submit additional work after the due date.**
 
 ### Scale
 
