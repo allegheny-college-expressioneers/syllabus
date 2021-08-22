@@ -124,7 +124,7 @@ Fractional grades will be rounded to the nearest whole percentage, according to 
 
 | Week | Dates                    | Topics                                                                                                                                       |
 |------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 0    | August 25 - 27           | **Groundwork** <br> Git, GitHub, SSH keys, JupyterHub, terminal navigation, and Markdown                                                     |
+| 0    | August 25 - 27           | **Groundwork** <br> Git, GitHub, SSH keys, Jupyter server, terminal navigation, and Markdown                                                 |
 | 1    | August 30 - September 3  | **Hello, Variables!** <br> Variable assignment and datatypes, arithmetic and assignment operators, expressions, and debugging                |
 | 2    | September 6 - 10         | **Fun Functions** <br> Introduction to functions                                                                                             |
 | 3    | September 13 - 17        | **While, While West** <br>  Introduction to control statements (`if` and `while`)                                                            |
