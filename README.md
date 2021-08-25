@@ -16,7 +16,7 @@ W 3:00 - 4:50 PM (Lab)<!-- UPDATEME -->\
 **Instructor:** Maria Kim Heinert\
 Please visit my [website](https://mariakimheinert.com) for my email, office hours, and office location.\
 **Discord:** [Allegheny College Computer Science](https://discord.gg/tqR2Yh4gNa)\
-Click the link above to join the Discord server. Once you are a member, I will add you to our private course channel, **#expressioneers**.\
+Click the link above to join the Discord server. Once you are a member I will add you to our private course channel, **#expressioneers**.\
 Most of our communication, including announcements from me that affect our course, will take place on Discord.
 
 ## Instructional Materials
@@ -83,7 +83,7 @@ Lab assignments will be due one week after they are released (i.e. before the ne
 
 As you may have noticed, there will be a much greater emphasis on "doing"--on analyzing, writing, and documenting code--than on memorizing and recalling information in this course, just as there is within the field of computer science.
 
-Because of this, quizzes only constitute a small portion of your grade and I will drop your lowest score. Rather than evaluating your ability to memorize and recall information, quizzes are meant more to help you to self-assess your progress and to help me determine what topics require more time and attention.
+Because of this, quizzes only constitute a small portion of your grade and I will drop your lowest score. Rather than evaluating your ability to memorize and recall information, quizzes are meant to help you self-assess your progress and to help me determine what topics require more time and attention.
 
 Quizzes will be due by 11:00 PM Thursday each week, to give me enough time to review responses so that I can determine what topics to focus on during Friday's class.
 
