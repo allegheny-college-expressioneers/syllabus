@@ -44,6 +44,14 @@ By the end of this course, you will be able to:
 - Independently utilize industry-standard tools, such as search engines, Git, GitHub, and Markdown
 - Create documentation to effectively communicate a program's intended behavior, as well as its potential issues, with its users and maintainers
 
+## Weekly Schedule
+
+|                   | Monday  | Tuesday | Wednesday                   | Thursday                       | Friday                                                                |
+|-------------------|---------|---------|-----------------------------|--------------------------------|-----------------------------------------------------------------------|
+| **Course agenda** | Lecture |         | Lecture (AM)/Lab (PM)       |                                | Reading comprehension exercises review,<br>practical assignment, quiz |
+| **Due**           |         |         | Lab from last week's module | Reading for this week's module |                                                                       |
+| **Assigned**      |         |         | Lab for this week's module  |                                | Reading for next week's module                                        |
+
 ## Grading
 
 ### Breakdown
@@ -69,7 +77,7 @@ If you ever find yourself sick or in need of a mental health day, please stay ho
 
 Every Friday, you will receive a set of readings on the topics that we will be covering in the following week as well as a suggested reading schedule. The readings contain exercises that will help you check your comprehension as you progress through them. These exercises might ask you to run a command in a terminal window and record its output, answer a question, or write some code. I expect you to make an honest attempt at every exercise, *especially* when they are challenging. It is perfectly acceptable to get things wrong as long as you have earnestly tried! Exercises will be graded based on efforts at completion, rather than correctness.
 
-Reading comprehension exercises will be due one week after they are released (i.e. the next Friday).
+Reading comprehension exercises will be due the next Thursday after they are released.
 
 #### Laboratory Assignments
 
@@ -85,7 +93,7 @@ As you may have noticed, there will be a much greater emphasis on "doing"--on an
 
 Because of this, quizzes only constitute a small portion of your grade and I will drop your lowest score. Rather than evaluating your ability to memorize and recall information, quizzes are meant to help you self-assess your progress and to help me determine what topics require more time and attention.
 
-Quizzes will be due by 11:00 PM Thursday each week, to give me enough time to review responses so that I can determine what topics to focus on during Friday's class.
+Quizzes will be administered on Friday each week.
 
 #### Final Project
 
@@ -95,9 +103,7 @@ You will have approximately one month to work on your final project. During this
 
 ### Due Dates and Extensions
 
-Unless otherwise announced by me, reading comprehension exercises, laboratory assignments, quizzes, and the final project will be due on the date and at the time stated in their instructions.
-
-The due dates for quizzes are final since we will be reviewing answers the day after they are due. You will receive zero points for quizzes that are not submitted by their due date.
+Unless otherwise announced by me, reading comprehension exercises, laboratory assignments, and the final project will be due on the date and at the time stated in their instructions.
 
 Extensions for reading comprehension exercises, lab assignments, and select portions of the final project may be granted on a case-by-case basis at my discretion if there are extenuating circumstances that significantly affect your ability to complete the work on time. You must communicate with me before the due date, preferably at least one week in advance, that you would like to request an extension. **If you do not communicate with me about an extension before the due date, I reserve the right to grade only the work submitted by the due date, even if you submit additional work after the due date.**
 
