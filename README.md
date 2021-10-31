@@ -140,7 +140,7 @@ Fractional grades will be rounded to the nearest whole percentage, according to 
 | 7    | October 11 - 15          | **Mighty Modules** <br> Importing and using modules                                                                                          |
 | 8    | October 18 - 22          | **Rags To Riches** <br> How to use the Rich Python library                                                                                   |
 | 9    | October 25 - 29          | **Cookie Cutter House** <br> Introduction to object-oriented programming, including constructors, properties, and interactions between files |
-| 10   | November 1 - 5           | **Cookie Cutter Smart House** <br> Creating custom methods                                                                                   |
+| 10   | November 1 - 5           | **Mad Methods** <br> Creating custom methods                                                                                                 |
 | 11   | November 8 - 12          | Final Project                                                                                                                                |
 | 12   | November 15 - 19         | Final Project                                                                                                                                |
 | 13   | November 22 - 26         | Turkey Time                                                                                                                                  |
